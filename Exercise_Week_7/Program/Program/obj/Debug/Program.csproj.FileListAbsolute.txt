@@ -1,0 +1,11 @@
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\bin\Debug\Program.exe.config
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\bin\Debug\Program.exe
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\bin\Debug\Program.pdb
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\obj\Debug\Program.Form1.resources
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\obj\Debug\Program.exe
+C:\Users\tswizzle\Documents\HUST\oop\oop assignment\Program\Program\obj\Debug\Program.pdb

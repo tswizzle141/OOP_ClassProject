@@ -1,0 +1,12 @@
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\bin\Debug\netcoreapp3.1\IObservableImplementation.exe
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\bin\Debug\netcoreapp3.1\IObservableImplementation.deps.json
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\bin\Debug\netcoreapp3.1\IObservableImplementation.runtimeconfig.json
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\bin\Debug\netcoreapp3.1\IObservableImplementation.runtimeconfig.dev.json
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\bin\Debug\netcoreapp3.1\IObservableImplementation.dll
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\bin\Debug\netcoreapp3.1\IObservableImplementation.pdb
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\obj\Debug\netcoreapp3.1\IObservableImplementation.csprojAssemblyReference.cache
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\obj\Debug\netcoreapp3.1\IObservableImplementation.AssemblyInfoInputs.cache
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\obj\Debug\netcoreapp3.1\IObservableImplementation.AssemblyInfo.cs
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\obj\Debug\netcoreapp3.1\IObservableImplementation.dll
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\obj\Debug\netcoreapp3.1\IObservableImplementation.pdb
+C:\Users\tswizzle\source\repos\IObservableImplementation\IObservableImplementation\obj\Debug\netcoreapp3.1\IObservableImplementation.genruntimeconfig.cache

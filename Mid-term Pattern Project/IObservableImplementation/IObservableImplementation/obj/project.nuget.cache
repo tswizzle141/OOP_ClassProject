@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6YT4VhKthIdDBvgSoskbAph+oLACJS+iRC80juUUW6M5w5Fn2BKxpKPYO+LGJLYZMUP6fUTGLrHhZTuGzwmYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tswizzle\\source\\repos\\IObservableImplementation\\IObservableImplementation\\IObservableImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tswizzle\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

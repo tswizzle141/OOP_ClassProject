@@ -1,0 +1,13 @@
+C:\Users\tswizzle\source\repos\Observable\Observable\bin\Debug\netcoreapp3.1\DerivingObservable.exe
+C:\Users\tswizzle\source\repos\Observable\Observable\bin\Debug\netcoreapp3.1\DerivingObservable.deps.json
+C:\Users\tswizzle\source\repos\Observable\Observable\bin\Debug\netcoreapp3.1\DerivingObservable.runtimeconfig.json
+C:\Users\tswizzle\source\repos\Observable\Observable\bin\Debug\netcoreapp3.1\DerivingObservable.runtimeconfig.dev.json
+C:\Users\tswizzle\source\repos\Observable\Observable\bin\Debug\netcoreapp3.1\DerivingObservable.dll
+C:\Users\tswizzle\source\repos\Observable\Observable\bin\Debug\netcoreapp3.1\DerivingObservable.pdb
+C:\Users\tswizzle\source\repos\Observable\Observable\obj\Debug\netcoreapp3.1\DerivingObservable.csprojAssemblyReference.cache
+C:\Users\tswizzle\source\repos\Observable\Observable\obj\Debug\netcoreapp3.1\DerivingObservable.AssemblyInfoInputs.cache
+C:\Users\tswizzle\source\repos\Observable\Observable\obj\Debug\netcoreapp3.1\DerivingObservable.AssemblyInfo.cs
+C:\Users\tswizzle\source\repos\Observable\Observable\obj\Debug\netcoreapp3.1\DerivingObservable.csproj.CoreCompileInputs.cache
+C:\Users\tswizzle\source\repos\Observable\Observable\obj\Debug\netcoreapp3.1\DerivingObservable.dll
+C:\Users\tswizzle\source\repos\Observable\Observable\obj\Debug\netcoreapp3.1\DerivingObservable.pdb
+C:\Users\tswizzle\source\repos\Observable\Observable\obj\Debug\netcoreapp3.1\DerivingObservable.genruntimeconfig.cache

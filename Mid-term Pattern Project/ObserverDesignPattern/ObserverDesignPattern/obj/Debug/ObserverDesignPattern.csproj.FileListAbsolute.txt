@@ -1,0 +1,10 @@
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe.config
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csprojAssemblyReference.cache
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.Form1.resources
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.Properties.Resources.resources
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.GenerateResource.cache
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
+C:\Users\tswizzle\source\repos\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb

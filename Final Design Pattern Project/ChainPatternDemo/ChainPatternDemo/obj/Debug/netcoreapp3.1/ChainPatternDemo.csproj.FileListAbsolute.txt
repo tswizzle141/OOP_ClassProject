@@ -1,0 +1,13 @@
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\bin\Debug\netcoreapp3.1\ChainPatternDemo.exe
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\bin\Debug\netcoreapp3.1\ChainPatternDemo.deps.json
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\bin\Debug\netcoreapp3.1\ChainPatternDemo.runtimeconfig.json
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\bin\Debug\netcoreapp3.1\ChainPatternDemo.runtimeconfig.dev.json
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\bin\Debug\netcoreapp3.1\ChainPatternDemo.dll
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\bin\Debug\netcoreapp3.1\ChainPatternDemo.pdb
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\obj\Debug\netcoreapp3.1\ChainPatternDemo.csprojAssemblyReference.cache
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\obj\Debug\netcoreapp3.1\ChainPatternDemo.AssemblyInfoInputs.cache
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\obj\Debug\netcoreapp3.1\ChainPatternDemo.AssemblyInfo.cs
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\obj\Debug\netcoreapp3.1\ChainPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\obj\Debug\netcoreapp3.1\ChainPatternDemo.dll
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\obj\Debug\netcoreapp3.1\ChainPatternDemo.pdb
+C:\Users\tswizzle\source\repos\ChainPatternDemo\ChainPatternDemo\obj\Debug\netcoreapp3.1\ChainPatternDemo.genruntimeconfig.cache

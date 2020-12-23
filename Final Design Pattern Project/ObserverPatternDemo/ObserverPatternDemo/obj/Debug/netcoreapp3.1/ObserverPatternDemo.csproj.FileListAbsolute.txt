@@ -1,0 +1,13 @@
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\bin\Debug\netcoreapp3.1\ObserverPatternDemo.exe
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\bin\Debug\netcoreapp3.1\ObserverPatternDemo.deps.json
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\bin\Debug\netcoreapp3.1\ObserverPatternDemo.runtimeconfig.json
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\bin\Debug\netcoreapp3.1\ObserverPatternDemo.runtimeconfig.dev.json
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\bin\Debug\netcoreapp3.1\ObserverPatternDemo.dll
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\bin\Debug\netcoreapp3.1\ObserverPatternDemo.pdb
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\netcoreapp3.1\ObserverPatternDemo.csprojAssemblyReference.cache
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\netcoreapp3.1\ObserverPatternDemo.AssemblyInfoInputs.cache
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\netcoreapp3.1\ObserverPatternDemo.AssemblyInfo.cs
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\netcoreapp3.1\ObserverPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\netcoreapp3.1\ObserverPatternDemo.dll
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\netcoreapp3.1\ObserverPatternDemo.pdb
+C:\Users\tswizzle\source\repos\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\netcoreapp3.1\ObserverPatternDemo.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\bin\Debug\DataGridDemo.exe.config
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\bin\Debug\DataGridDemo.exe
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\bin\Debug\DataGridDemo.pdb
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\obj\Debug\DataGridDemo.csprojAssemblyReference.cache
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\obj\Debug\DataGridDemo.Form1.resources
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\obj\Debug\DataGridDemo.Properties.Resources.resources
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\obj\Debug\DataGridDemo.csproj.GenerateResource.cache
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\obj\Debug\DataGridDemo.csproj.CoreCompileInputs.cache
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\obj\Debug\DataGridDemo.exe
+C:\Users\tswizzle\source\repos\DataGridDemo\DataGridDemo\obj\Debug\DataGridDemo.pdb

@@ -1,3 +1,8 @@
 # OOP_ClassProject
 
-All of my test, exercises and assignments during Object-Oriented Programming subject
+## Calculator
+
+Programming calculator's functions and a special Paint form to display various geometrical shapes.
+
+Some of interesting parts of the project is:
+

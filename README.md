@@ -6,7 +6,7 @@ Programming calculator's functions and a special Paint form to display various g
 
 Some of interesting parts of the project is:
 
-1. Poland Equation
+**1. Poland Equation**
 
 Create a stack then push all elements of the equation into this stack. When an operator is caught, `stack.pop()` the last 2 numerical elements out.
 
@@ -45,7 +45,7 @@ Create a stack then push all elements of the equation into this stack. When an o
                 
                     stack.Push(s);`
                     
-2. Draw Parallelopiped and Cuboid
+**2. Draw Parallelopiped and Cuboid**
 
 Create a parallelogram first, before drawing-line function connects the 2 of them to form a parallelopiped.
 

@@ -10,9 +10,13 @@ Some of interesting parts of the project is:
 
 Create a stack then push all elements of the equation into this stack. When an operator is caught, `stack.pop()` the last 2 numerical elements out.
 
-`if (IsOperator(s)){
+`if (IsOperator(s))
+
+{
                    
-  if(binaryOperatorList.Contains(s)){
+  if(binaryOperatorList.Contains(s))
+  
+  {
   
     d1 = ReadValue(stack.Pop(), dict);
     
@@ -24,7 +28,9 @@ Create a stack then push all elements of the equation into this stack. When an o
     
   }
   
-  if(unaryOperatorList.Contains(s)){
+  if(unaryOperatorList.Contains(s))
+  
+  {
   
     d1 = ReadValue(stack.Pop(), dict);
     
@@ -36,5 +42,6 @@ Create a stack then push all elements of the equation into this stack. When an o
   
 }
 
-else stack.Push(s);
+else 
+  stack.Push(s);
 `
